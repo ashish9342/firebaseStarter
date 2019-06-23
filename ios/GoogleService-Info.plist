@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>244282536960-7obct6vr3pftbrl3shvtrbj6k5o6ckb6.apps.googleusercontent.com</string>
+	<string>298093339835-j2k47l47oe018l55b0t7bsko3r9blndi.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.244282536960-7obct6vr3pftbrl3shvtrbj6k5o6ckb6</string>
+	<string>com.googleusercontent.apps.298093339835-j2k47l47oe018l55b0t7bsko3r9blndi</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDxlL-oOJdzTr9LtZF3Fbfif6PTjXNva6U</string>
+	<string>AIzaSyAQFPdjoXDhls9i8D8c0ofc7DZav4FWbLY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>244282536960</string>
+	<string>298093339835</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.invertase.RNFirebaseStarter</string>
+	<string>com.arbretail.mobile</string>
 	<key>PROJECT_ID</key>
-	<string>starterapp-3b900</string>
+	<string>alrajhiapp-b53ad</string>
 	<key>STORAGE_BUCKET</key>
-	<string>starterapp-3b900.appspot.com</string>
+	<string>alrajhiapp-b53ad.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:244282536960:ios:962f9615a85c5711</string>
+	<string>1:298093339835:ios:5bc03f792269c371</string>
 	<key>DATABASE_URL</key>
-	<string>https://starterapp-3b900.firebaseio.com</string>
+	<string>https://alrajhiapp-b53ad.firebaseio.com</string>
 </dict>
 </plist>
