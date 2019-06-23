@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.arbretail.mobile;
 
 import android.support.multidex.MultiDexApplication;
 
